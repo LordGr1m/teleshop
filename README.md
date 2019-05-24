@@ -1,0 +1,2 @@
+# teleshop
+Teleshopping-Ruby / MongoDB
